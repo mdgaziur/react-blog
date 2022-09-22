@@ -1,0 +1,21 @@
+.pagination{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    button {
+        background: none;
+        border: 1px solid lightgray;
+        padding: 1rem;
+        font-size: 1rem;
+        border-right: none;
+        cursor: pointer;
+        &:last-child {
+            border-right: 1px solid lightgray;
+        }
+    }
+    button.active {
+        background: blue;
+        color: white;
+    }
+}

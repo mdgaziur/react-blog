@@ -1,0 +1,40 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "API FOR BLOG",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "csurf": "^1.11.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.6.1",
+    "helmet": "^4.2.0",
+    "html-metadata-parser": "^1.0.3",
+    "jsonwebtoken": "^8.5.1",
+    "metadata-parser": "^1.0.1",
+    "mongoose": "^5.11.7",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.2",
+    "sanitize": "^2.1.0",
+    "uuid": "^8.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "nodemon index.js"
+  },
+  "keywords": [
+    "mongodb",
+    "express"
+  ],
+  "author": "MD Gaziur Rahman Noor",
+  "license": "ISC"
+}

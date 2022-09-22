@@ -1,0 +1,18 @@
+.timeline {
+    background: rgb(240, 240, 240);
+    outline: none;
+    user-select: none;
+    summary {
+        padding: 15px;
+        outline: none;
+        background: grey;
+        color: white;
+        cursor: pointer;
+    }
+    div {
+        padding: 15px;
+        p {
+            padding: 5px;
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "Boilerplate code for making routes in this blog": {
+        "prefix": "mr",
+        "body": [
+            "const express = require('express');\r\nconst { body, validationResult } = require('express-validator');\r\n\r\nconst router = express.Router();\r\n\r\nconst route = router.post('\/', [\r\n    \/* Validators go here *\/\r\n], (req, res) => {\r\n    let errors = validationResult(req);\r\n    if(!errors.isEmpty()) {\r\n        res.json(errors);\r\n        res.status(406);\r\n        res.end();\r\n    } else {\r\n        \/\/Write code for handling the request\r\n    }\r\n})"
+        ]
+    }
+}

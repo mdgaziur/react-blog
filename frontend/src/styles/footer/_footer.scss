@@ -1,0 +1,67 @@
+@import '../colors';
+
+.footer {
+    padding: 2rem;
+    min-height: 20vh;
+    h1, h2 {
+        color: rgb(226, 226, 226);
+        text-align: center;
+    }
+    .footer-containers {
+        justify-content: center;
+        display: flex;
+        flex-wrap: wrap;
+        .footer-s-container {
+            display: grid;
+            min-width: 300px;
+            padding: 1%;
+            a {
+                color: yellow;
+                text-decoration: none;
+                margin: 5%;
+                width: max-content;
+                &:hover {
+                    text-decoration: underline;
+                }
+            }
+            .footer-history-post {
+                margin-top: 10px;
+                background: white;
+                display: flex;
+                height: 30px;
+                align-items: center;
+                justify-content: right;
+                padding: 5%;
+                border-radius: 15px;
+                position: relative;
+                h3 {
+                    flex: 1;
+                    color: rgb(77, 77, 77);
+                    text-overflow: ellipsis;
+                    overflow: hidden;
+                    white-space: nowrap;
+                    max-width: 100px;
+                    position: absolute;
+                    left: 5%;
+                }
+                a {
+                    justify-self: flex-end;
+                }
+                button {
+                    background: none;
+                    border: none;
+                    outline: none;
+                    cursor: pointer;
+                    padding: 10px;
+                    transition: 500ms;
+                    width: max-content;
+                    &:hover {
+                        background: rgb(0, 0, 0);
+                        color: white;
+                        border-radius: 5px;
+                    }
+                }
+            }
+        }
+    }
+}

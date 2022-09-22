@@ -1,0 +1,68 @@
+.settings-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.settings {
+    width: 700px;
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    .input-group{
+        margin-top: 25px;
+        padding: 15px;
+        border-radius: 8px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: 100%;
+        .settings-input-summary {
+            align-self: flex-start;
+            margin: 0;
+        }
+        .settings-input-container {
+            display: flex;
+            justify-content: center;
+            width: 100%;
+            margin-top: 15px;
+            &:nth-child(1) {
+                margin-top: 0;
+            }
+            .settings-textfield {
+                width: 100%;
+            }
+        }
+        .save-button {
+            background: linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%);
+            margin-top: 15px;
+            * {
+                color: white;
+            }
+        }
+    }
+    .danger-zone {
+        background: rgb(255, 219, 219);
+        h3 {
+            color: red!important;
+        }
+        button {
+            margin-top: 15px;
+            color: white!important;
+        }
+        .settings-input-container {
+            margin-top: 20px;
+        }
+        * {
+            border-color: red!important;
+        }
+        label {
+            color: red;
+        }
+        button {
+            background: red;
+        }
+    }
+}

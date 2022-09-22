@@ -1,0 +1,24 @@
+.nav-categories {
+    display: flex;
+    background: rgb(128, 128, 128);
+    justify-content: center;
+    .nav-cat-button{
+        justify-content: center;
+        display: flex;
+        text-decoration: none;
+        button {
+            padding: 15px;
+            text-decoration: none;
+            font-size: 100%;
+            text-decoration: none;
+            background: none;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            transition: 500ms;
+            &:hover {
+                background: black;
+            }
+        }
+    }
+}

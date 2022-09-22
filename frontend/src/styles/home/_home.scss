@@ -1,0 +1,23 @@
+@import '../colors';
+@import './post';
+@import './timeline';
+
+.home {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    .split-container {
+        display: flex;
+        flex-direction: column;
+        max-width: 100%;
+        &:nth-child(1) {
+            flex: 1;
+        }
+        &:nth-child(2) {
+            min-width: 250px;
+        }
+    }
+}
+.posts-container {
+    padding: 1rem;
+}

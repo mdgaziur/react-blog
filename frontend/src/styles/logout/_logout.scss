@@ -1,0 +1,72 @@
+.logout {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.645);
+    justify-content: center;
+    z-index: 4;
+    opacity: 0;
+    animation: fade-up 500ms linear 1 forwards;
+    animation-timing-function: ease-in;
+    .logout-container {
+        width: 400px;
+        max-width: 100%;
+        display: flex;
+        flex-direction: column;
+        background: rgb(245, 245, 245);
+        transform: translateY(-100vh);
+        animation: drop 500ms linear 1 forwards;
+        animation-timing-function: ease-in-out;
+        padding: 15px;
+        border-radius: 5px;
+        button {
+            margin-top: 5px;
+        }
+    }
+}
+
+.logout.invisible {
+    animation: fade-down 500ms linear 1 forwards;
+    .login-form-container {
+        animation: pull 500ms linear 1 forwards;
+        animation-timing-function: ease-in-out;
+    }
+}
+
+@keyframes fade-up {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes fade-down {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+    }
+}
+
+@keyframes drop {
+    from {
+        transform: translateY(-100%);
+    } to {
+        transform: translateY(0);
+    }
+}
+
+@keyframes pull {
+    from {
+        transform: translateY(0);
+    } to {
+        transform: translateY(-100%);
+    }
+}

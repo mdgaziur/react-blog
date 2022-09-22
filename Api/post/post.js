@@ -1,0 +1,23 @@
+const addPost = require("./addPost");
+const editPost = require("./editPost");
+const getAllPosts = require("./getAllPosts");
+const getByCategory = require("./getByCategory");
+const getById = require("./getById");
+const getComments = require("./getComments");
+const getPostByAuthorId = require("./getPostsByAuthorId");
+const loadPost = require("./loadPosts");
+const paginate = require("./paginate_posts");
+const removePost = require("./removePost");
+const uploadImage = require("./uploadImage");
+
+module.exports.addPost = addPost;
+module.exports.editPost = editPost;
+module.exports.removePost = removePost;
+module.exports.getAllPosts = getAllPosts;
+module.exports.getById = getById;
+module.exports.getPostByAuthorId = getPostByAuthorId;
+module.exports.getComments = getComments;
+module.exports.uploadImage = uploadImage;
+module.exports.getByCategory = getByCategory;
+module.exports.loadPosts = loadPost;
+module.exports.paginate = paginate;

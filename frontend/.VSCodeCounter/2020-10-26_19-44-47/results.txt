@@ -1,0 +1,123 @@
+Date : 2020-10-26 19:44:47
+Directory : /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend
+Total : 66 files,  5883 codes, 54 comments, 582 blanks, all 6519 lines
+
+Languages
++------------------+------------+------------+------------+------------+------------+
+| language         | files      | code       | comment    | blank      | total      |
++------------------+------------+------------+------------+------------+------------+
+| CSS              |         26 |      3,190 |          1 |        473 |      3,664 |
+| SCSS             |         21 |      1,364 |          2 |         43 |      1,409 |
+| JavaScript React |         12 |        960 |         28 |         27 |      1,015 |
+| JavaScript       |          4 |        287 |          0 |          5 |        292 |
+| Markdown         |          1 |         37 |          0 |         32 |         69 |
+| JSON             |          1 |         25 |          0 |          1 |         26 |
+| HTML             |          1 |         20 |         23 |          1 |         44 |
++------------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                            | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                               |         66 |      5,883 |         54 |        582 |      6,519 |
+| public                                                                                                          |          2 |         45 |         23 |          2 |         70 |
+| src                                                                                                             |         63 |      5,801 |         31 |        548 |      6,380 |
+| src/components                                                                                                  |         14 |      1,214 |         28 |         29 |      1,271 |
+| src/components/admin                                                                                            |          1 |         76 |          0 |          2 |         78 |
+| src/components/article                                                                                          |          1 |         80 |          0 |          3 |         83 |
+| src/components/body                                                                                             |          1 |         21 |          0 |          2 |         23 |
+| src/components/editPost                                                                                         |          2 |        203 |          0 |          3 |        206 |
+| src/components/footer                                                                                           |          1 |         37 |          0 |          2 |         39 |
+| src/components/home                                                                                             |          1 |        130 |          0 |          3 |        133 |
+| src/components/imageViewerModal                                                                                 |          1 |         41 |          0 |          2 |         43 |
+| src/components/loginModal                                                                                       |          1 |        135 |          1 |          2 |        138 |
+| src/components/newPost                                                                                          |          2 |        203 |          0 |          3 |        206 |
+| src/components/registerModal                                                                                    |          1 |        139 |         27 |          2 |        168 |
+| src/components/settings                                                                                         |          1 |         75 |          0 |          2 |         77 |
+| src/styles                                                                                                      |         47 |      4,554 |          3 |        516 |      5,073 |
+| src/styles/Register                                                                                             |          3 |        265 |          0 |         29 |        294 |
+| src/styles/admin                                                                                                |          3 |        313 |          0 |         30 |        343 |
+| src/styles/article                                                                                              |          3 |        617 |          0 |         67 |        684 |
+| src/styles/body                                                                                                 |          3 |         15 |          0 |          2 |         17 |
+| src/styles/footer                                                                                               |          1 |         53 |          0 |          1 |         54 |
+| src/styles/header                                                                                               |          8 |        386 |          0 |         30 |        416 |
+| src/styles/home                                                                                                 |          7 |        426 |          0 |         49 |        475 |
+| src/styles/loader                                                                                               |          1 |         67 |          2 |          8 |         77 |
+| src/styles/login                                                                                                |          3 |        265 |          0 |         29 |        294 |
+| src/styles/main                                                                                                 |          2 |          7 |          0 |          1 |          8 |
+| src/styles/newpost                                                                                              |          3 |        143 |          0 |         13 |        156 |
+| src/styles/settings                                                                                             |          3 |        135 |          0 |         18 |        153 |
++-----------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| filename                                                                                                        | language         | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/README.md                                            | Markdown         |         37 |          0 |         32 |         69 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/public/index.html                                    | HTML             |         20 |         23 |          1 |         44 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/public/manifest.json                                 | JSON             |         25 |          0 |          1 |         26 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/components/App.jsx                               | JavaScript React |         74 |          0 |          3 |         77 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/components/admin/admin.jsx                       | JavaScript React |         76 |          0 |          2 |         78 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/components/article/article.jsx                   | JavaScript React |         80 |          0 |          3 |         83 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/components/body/body.jsx                         | JavaScript React |         21 |          0 |          2 |         23 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/components/editPost/editPost.jsx                 | JavaScript React |         76 |          0 |          2 |         78 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/components/editPost/editorData.js                | JavaScript       |        127 |          0 |          1 |        128 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/components/footer/footer.jsx                     | JavaScript React |         37 |          0 |          2 |         39 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/components/home/home.jsx                         | JavaScript React |        130 |          0 |          3 |        133 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/components/imageViewerModal/ImageViewerModal.jsx | JavaScript React |         41 |          0 |          2 |         43 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/components/loginModal/login.jsx                  | JavaScript React |        135 |          1 |          2 |        138 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/components/newPost/editorData.js                 | JavaScript       |        127 |          0 |          1 |        128 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/components/newPost/newPost.jsx                   | JavaScript React |         76 |          0 |          2 |         78 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/components/registerModal/register.jsx            | JavaScript React |        139 |         27 |          2 |        168 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/components/settings/settings.jsx                 | JavaScript React |         75 |          0 |          2 |         77 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/index.js                                         | JavaScript       |         10 |          0 |          2 |         12 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/strings.js                                       | JavaScript       |         23 |          0 |          1 |         24 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/Register/_register.css                    | CSS              |        133 |          0 |         23 |        156 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/Register/_register.min.css                | CSS              |          1 |          0 |          1 |          2 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/Register/_register.scss                   | SCSS             |        131 |          0 |          5 |        136 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/_colors.scss                              | SCSS             |          6 |          0 |          0 |          6 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/_universe.css                             | CSS              |         18 |          0 |          4 |         22 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/_universe.min.css                         | CSS              |          1 |          0 |          1 |          2 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/_universe.scss                            | SCSS             |         18 |          0 |          1 |         19 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/admin/_admin.css                          | CSS              |        155 |          0 |         28 |        183 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/admin/_admin.min.css                      | CSS              |          1 |          0 |          1 |          2 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/admin/_admin.scss                         | SCSS             |        157 |          0 |          1 |        158 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/article/_article.css                      | CSS              |        309 |          0 |         53 |        362 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/article/_article.min.css                  | CSS              |          1 |          0 |          1 |          2 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/article/_article.scss                     | SCSS             |        307 |          0 |         13 |        320 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/body/_body.css                            | CSS              |          7 |          0 |          1 |          8 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/body/_body.min.css                        | CSS              |          1 |          0 |          1 |          2 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/body/_body.scss                           | SCSS             |          7 |          0 |          0 |          7 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/footer/_footer.scss                       | SCSS             |         53 |          0 |          1 |         54 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/header/_categories.scss                   | SCSS             |         24 |          0 |          0 |         24 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/header/_header.css                        | CSS              |        162 |          0 |         17 |        179 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/header/_header.min.css                    | CSS              |          1 |          0 |          1 |          2 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/header/_header.scss                       | SCSS             |         73 |          0 |          2 |         75 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/header/_nav.scss                          | SCSS             |         24 |          0 |          1 |         25 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/header/_searchBar.css                     | CSS              |         50 |          0 |          7 |         57 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/header/_searchBar.min.css                 | CSS              |          1 |          0 |          1 |          2 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/header/_searchBar.scss                    | SCSS             |         51 |          0 |          1 |         52 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/home/_home.css                            | CSS              |        152 |          0 |         27 |        179 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/home/_home.min.css                        | CSS              |          1 |          0 |          1 |          2 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/home/_home.scss                           | SCSS             |         22 |          0 |          1 |         23 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/home/_post.css                            | CSS              |        115 |          0 |         18 |        133 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/home/_post.min.css                        | CSS              |          1 |          0 |          1 |          2 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/home/_post.scss                           | SCSS             |        117 |          0 |          1 |        118 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/home/_timeline.scss                       | SCSS             |         18 |          0 |          0 |         18 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/loader/_loader.scss                       | SCSS             |         67 |          2 |          8 |         77 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/login/_login.css                          | CSS              |        133 |          0 |         23 |        156 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/login/_login.min.css                      | CSS              |          1 |          0 |          1 |          2 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/login/_login.scss                         | SCSS             |        131 |          0 |          5 |        136 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/main/_body.scss                           | SCSS             |          6 |          0 |          1 |          7 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/main/_index.scss                          | SCSS             |          1 |          0 |          0 |          1 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/newpost/_newpost.css                      | CSS              |         71 |          0 |         11 |         82 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/newpost/_newpost.min.css                  | CSS              |          1 |          0 |          1 |          2 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/newpost/_newpost.scss                     | SCSS             |         71 |          0 |          1 |         72 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/settings/_settings.css                    | CSS              |         67 |          0 |         16 |         83 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/settings/_settings.min.css                | CSS              |          1 |          0 |          1 |          2 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/settings/_settings.scss                   | SCSS             |         67 |          0 |          1 |         68 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/style.css                                 | CSS              |      1,805 |          1 |        232 |      2,038 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/style.min.css                             | CSS              |          1 |          0 |          1 |          2 |
+| /home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/style.scss                                | SCSS             |         13 |          0 |          0 |         13 |
+| Total                                                                                                           |                  |      5,883 |         54 |        582 |      6,519 |
++-----------------------------------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+

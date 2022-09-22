@@ -1,0 +1,12 @@
+{
+    "VSCodeCounter.exclude": [
+        ".gitignore",
+        ".vscode",
+        "node_modules",
+        "package.json",
+        "package-lock.json",
+        ".VSCodeCounter",
+        "style.css",
+        "style.css.map"
+    ]
+}

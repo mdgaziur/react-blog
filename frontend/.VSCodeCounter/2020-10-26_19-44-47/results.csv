@@ -1,0 +1,68 @@
+"filename", "language", "JSON", "HTML", "JavaScript", "SCSS", "CSS", "JavaScript React", "Markdown", "comment", "blank", "total"
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/README.md", "Markdown", 0, 0, 0, 0, 0, 0, 37, 0, 32, 69
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/public/index.html", "HTML", 0, 20, 0, 0, 0, 0, 0, 23, 1, 44
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/public/manifest.json", "JSON", 25, 0, 0, 0, 0, 0, 0, 0, 1, 26
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/components/App.jsx", "JavaScript React", 0, 0, 0, 0, 0, 74, 0, 0, 3, 77
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/components/admin/admin.jsx", "JavaScript React", 0, 0, 0, 0, 0, 76, 0, 0, 2, 78
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/components/article/article.jsx", "JavaScript React", 0, 0, 0, 0, 0, 80, 0, 0, 3, 83
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/components/body/body.jsx", "JavaScript React", 0, 0, 0, 0, 0, 21, 0, 0, 2, 23
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/components/editPost/editPost.jsx", "JavaScript React", 0, 0, 0, 0, 0, 76, 0, 0, 2, 78
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/components/editPost/editorData.js", "JavaScript", 0, 0, 127, 0, 0, 0, 0, 0, 1, 128
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/components/footer/footer.jsx", "JavaScript React", 0, 0, 0, 0, 0, 37, 0, 0, 2, 39
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/components/home/home.jsx", "JavaScript React", 0, 0, 0, 0, 0, 130, 0, 0, 3, 133
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/components/imageViewerModal/ImageViewerModal.jsx", "JavaScript React", 0, 0, 0, 0, 0, 41, 0, 0, 2, 43
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/components/loginModal/login.jsx", "JavaScript React", 0, 0, 0, 0, 0, 135, 0, 1, 2, 138
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/components/newPost/editorData.js", "JavaScript", 0, 0, 127, 0, 0, 0, 0, 0, 1, 128
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/components/newPost/newPost.jsx", "JavaScript React", 0, 0, 0, 0, 0, 76, 0, 0, 2, 78
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/components/registerModal/register.jsx", "JavaScript React", 0, 0, 0, 0, 0, 139, 0, 27, 2, 168
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/components/settings/settings.jsx", "JavaScript React", 0, 0, 0, 0, 0, 75, 0, 0, 2, 77
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/index.js", "JavaScript", 0, 0, 10, 0, 0, 0, 0, 0, 2, 12
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/strings.js", "JavaScript", 0, 0, 23, 0, 0, 0, 0, 0, 1, 24
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/Register/_register.css", "CSS", 0, 0, 0, 0, 133, 0, 0, 0, 23, 156
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/Register/_register.min.css", "CSS", 0, 0, 0, 0, 1, 0, 0, 0, 1, 2
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/Register/_register.scss", "SCSS", 0, 0, 0, 131, 0, 0, 0, 0, 5, 136
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/_colors.scss", "SCSS", 0, 0, 0, 6, 0, 0, 0, 0, 0, 6
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/_universe.css", "CSS", 0, 0, 0, 0, 18, 0, 0, 0, 4, 22
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/_universe.min.css", "CSS", 0, 0, 0, 0, 1, 0, 0, 0, 1, 2
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/_universe.scss", "SCSS", 0, 0, 0, 18, 0, 0, 0, 0, 1, 19
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/admin/_admin.css", "CSS", 0, 0, 0, 0, 155, 0, 0, 0, 28, 183
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/admin/_admin.min.css", "CSS", 0, 0, 0, 0, 1, 0, 0, 0, 1, 2
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/admin/_admin.scss", "SCSS", 0, 0, 0, 157, 0, 0, 0, 0, 1, 158
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/article/_article.css", "CSS", 0, 0, 0, 0, 309, 0, 0, 0, 53, 362
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/article/_article.min.css", "CSS", 0, 0, 0, 0, 1, 0, 0, 0, 1, 2
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/article/_article.scss", "SCSS", 0, 0, 0, 307, 0, 0, 0, 0, 13, 320
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/body/_body.css", "CSS", 0, 0, 0, 0, 7, 0, 0, 0, 1, 8
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/body/_body.min.css", "CSS", 0, 0, 0, 0, 1, 0, 0, 0, 1, 2
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/body/_body.scss", "SCSS", 0, 0, 0, 7, 0, 0, 0, 0, 0, 7
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/footer/_footer.scss", "SCSS", 0, 0, 0, 53, 0, 0, 0, 0, 1, 54
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/header/_categories.scss", "SCSS", 0, 0, 0, 24, 0, 0, 0, 0, 0, 24
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/header/_header.css", "CSS", 0, 0, 0, 0, 162, 0, 0, 0, 17, 179
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/header/_header.min.css", "CSS", 0, 0, 0, 0, 1, 0, 0, 0, 1, 2
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/header/_header.scss", "SCSS", 0, 0, 0, 73, 0, 0, 0, 0, 2, 75
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/header/_nav.scss", "SCSS", 0, 0, 0, 24, 0, 0, 0, 0, 1, 25
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/header/_searchBar.css", "CSS", 0, 0, 0, 0, 50, 0, 0, 0, 7, 57
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/header/_searchBar.min.css", "CSS", 0, 0, 0, 0, 1, 0, 0, 0, 1, 2
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/header/_searchBar.scss", "SCSS", 0, 0, 0, 51, 0, 0, 0, 0, 1, 52
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/home/_home.css", "CSS", 0, 0, 0, 0, 152, 0, 0, 0, 27, 179
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/home/_home.min.css", "CSS", 0, 0, 0, 0, 1, 0, 0, 0, 1, 2
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/home/_home.scss", "SCSS", 0, 0, 0, 22, 0, 0, 0, 0, 1, 23
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/home/_post.css", "CSS", 0, 0, 0, 0, 115, 0, 0, 0, 18, 133
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/home/_post.min.css", "CSS", 0, 0, 0, 0, 1, 0, 0, 0, 1, 2
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/home/_post.scss", "SCSS", 0, 0, 0, 117, 0, 0, 0, 0, 1, 118
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/home/_timeline.scss", "SCSS", 0, 0, 0, 18, 0, 0, 0, 0, 0, 18
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/loader/_loader.scss", "SCSS", 0, 0, 0, 67, 0, 0, 0, 2, 8, 77
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/login/_login.css", "CSS", 0, 0, 0, 0, 133, 0, 0, 0, 23, 156
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/login/_login.min.css", "CSS", 0, 0, 0, 0, 1, 0, 0, 0, 1, 2
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/login/_login.scss", "SCSS", 0, 0, 0, 131, 0, 0, 0, 0, 5, 136
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/main/_body.scss", "SCSS", 0, 0, 0, 6, 0, 0, 0, 0, 1, 7
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/main/_index.scss", "SCSS", 0, 0, 0, 1, 0, 0, 0, 0, 0, 1
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/newpost/_newpost.css", "CSS", 0, 0, 0, 0, 71, 0, 0, 0, 11, 82
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/newpost/_newpost.min.css", "CSS", 0, 0, 0, 0, 1, 0, 0, 0, 1, 2
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/newpost/_newpost.scss", "SCSS", 0, 0, 0, 71, 0, 0, 0, 0, 1, 72
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/settings/_settings.css", "CSS", 0, 0, 0, 0, 67, 0, 0, 0, 16, 83
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/settings/_settings.min.css", "CSS", 0, 0, 0, 0, 1, 0, 0, 0, 1, 2
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/settings/_settings.scss", "SCSS", 0, 0, 0, 67, 0, 0, 0, 0, 1, 68
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/style.css", "CSS", 0, 0, 0, 0, 1805, 0, 0, 1, 232, 2038
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/style.min.css", "CSS", 0, 0, 0, 0, 1, 0, 0, 0, 1, 2
+"/home/mdgaziur001/website/jagatpuri-darbar-sharif/frontend/src/styles/style.scss", "SCSS", 0, 0, 0, 13, 0, 0, 0, 0, 0, 13
+"Total", "-", 25, 20, 287, 1364, 3190, 960, 37, 54, 582, 6519

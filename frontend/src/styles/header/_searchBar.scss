@@ -1,0 +1,52 @@
+@import '../colors';
+
+.searchBar {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2%;
+    align-items: center;
+    width: 100%;
+    .searchbar-container{
+        background: white;
+        width: 350px;
+        max-width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+        input {
+            font-size: 15px;
+            color: black;
+            flex: 1;
+            background: none;
+            border: none;
+            outline: none;
+            padding: 1%;
+            padding-left: 3%;
+        }
+        .search-button {
+            background: rgb(80, 80, 80);
+            min-width: 50px;
+            cursor: pointer;
+            outline: none;
+            box-shadow: 3px 3px 5px 6px rgba(204, 204, 204, 0.562);;
+            padding: 1%;
+            border: none;
+            font-size: 2rem;
+            width: 100px;
+            max-width: 10%;
+            transition: 200ms;
+            .search-button-icon {
+                transform: rotate(-45deg);
+                display: inline-block;
+            }
+            &:active {
+                background: rgb(58, 58, 58);
+            }
+        }
+    }
+    label {
+        margin: .5rem;
+        font-size: 1.5rem;
+    }
+}
